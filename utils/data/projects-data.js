@@ -55,8 +55,7 @@ export const projectsData = [
     role: "Full-Stack & ML Developer",
     code: "https://github.com/sakshishewale01/FlowGrid",
     demo: "",
-    image:
-      "https://opengraph.githubassets.com/1/sakshishewale01/FlowGrid",
+    image: "/image/flowgrid.png",
   },
 
   {
